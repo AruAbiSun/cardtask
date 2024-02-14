@@ -1,0 +1,1 @@
+This task I make a price card using REACT.
